@@ -7,3 +7,4 @@ Neste repositório estará locado todos os projetos dos cursos feitos na platafo
 
 ### Sumário de Cursos 
 - Criando seu primeiro repositório no GitHub para compartilhar seu pogresso | Duração: 1 hora 
+- Introdução a criação de websites com HTML5 e CSS3 | Duração: 6 horas 
